@@ -1,0 +1,9 @@
+229;Hay Rd;Hobson;Marville;1450;3;340000;350000;images/229Hay.gif;
+35;Bay Rd;Seaside;Marville;650;2;600000;500000;images/35Bay.gif;
+4;Bay View Drive;St Clair;Dunedin;1000;4;410000;450000;images/4Bay.gif;
+20;Forestview Rd;Big Hill;Motueka;800;3;240000;250000;images/20Forestview.gif;
+123;Rangatira Drive;Adderley;Christchurch;950;4;350000;250000;images/123Rangatira.gif;  
+19;Manuka Terrace;Ta Aro;Wellington;700;2;280000;300000;images/19Manuka.gif;
+208;Racecourse Rd;Riccarton;Christchurch;1200;5;480000;499000;images/208Racecourse.gif;
+115;Wigram Rd;Wigram;Christchurch;600;3;350000;350000;images/115Wigram.gif;
+27;Motu St;North East Valley;Dunedin;700;2;180000;190000;images/27Motu.gif;
